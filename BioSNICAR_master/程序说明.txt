@@ -1,0 +1,3 @@
+codes_V和codes是对应的内外混程序，v1输出的是1-omgea  V是反照率
+sgs是粒径反演的程序
+另外codes里面有结合实测的程序，sza
